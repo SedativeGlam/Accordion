@@ -55,7 +55,7 @@ header {
   border-color: #c59c5e;
   border-radius: 3px;
   padding: 3px 4x;
-  height: 24px;
+  height: 23px;
   cursor: pointer;
   transition: transform 0.7s ease;
 }
@@ -72,7 +72,7 @@ header {
   border-color: #c59c5e;
   border-radius: 3px;
   padding: 3px 4x;
-  height: 24px;
+  height: 22px;
   cursor: pointer;
   transition: transform 0.7s ease;
   display: none;
@@ -122,5 +122,15 @@ hr {
 
   .accordion {
     width: 100%;
+  }
+
+  .question {
+    font-size: 14px;
+  }
+
+  .text {
+    font-size: 16px;
+    color: #617d98;
+    margin-bottom: 0;
   }
 }
